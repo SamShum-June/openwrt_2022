@@ -29,8 +29,8 @@ env:
   CONFIG_FILE: config/MIPS/mir4/mir4-def.config
   ###小米路由器4 附加插件设置###
   ###CUSTOM_CONFIG: config/MIPS/mir4/mir4-custom.config
-  ##DIY_P1_SH: scripts/diy-part1.sh
-  ##DIY_P2_SH: scripts/diy-part2.sh
+  DIY_P1_SH: scripts/diy-part1.sh
+  DIY_P2_SH: scripts/diy-part2.sh
   UPLOAD_BIN_DIR: true
   UPLOAD_FIRMWARE: true
   UPLOAD_COWTRANSFER: true
