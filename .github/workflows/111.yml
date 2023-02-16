@@ -10,7 +10,7 @@
 #
 #使用原有的coolsnowwolf/lede 设置，添加其他插件#
 
-name: mir4custom
+name: 111
 
 on:
   repository_dispatch:
